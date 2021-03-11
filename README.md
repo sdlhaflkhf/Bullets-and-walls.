@@ -1,2 +1,2 @@
-# Bullets-and-walls.
-We recoded and made everything bullets. 
+# p5.play-boilerplate
+Boiler plate for p5.play
